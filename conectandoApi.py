@@ -1,5 +1,6 @@
 import flet as ft
 
+
 def main(page: ft.Page):
     # Função para realizar a conversão
     def convert_currency(e):
